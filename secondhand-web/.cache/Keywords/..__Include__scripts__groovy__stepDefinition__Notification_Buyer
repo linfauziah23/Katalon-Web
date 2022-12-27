@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "19E26C3AF6B6CAA743589B3ECC1FFCBA",
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.Notification_Buyer",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

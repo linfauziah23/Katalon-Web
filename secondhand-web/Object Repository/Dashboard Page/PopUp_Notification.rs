@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PopUp_Notification</name>
+   <tag></tag>
+   <elementGuidId>055b85a0-eb04-46ef-9e3f-497682b4f1c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarText']/ul/li[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.dropdown-menu.dropdown-menu-right.p-2.show</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>06ee75ea-92f4-4b1a-bb49-05bdc0d0322e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-menu dropdown-menu-right p-2 show</value>
+      <webElementGuid>2ce0917e-8aca-4004-adcb-e93ca70e6e9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>notification</value>
+      <webElementGuid>2f711629-b973-49ea-ac42-7fa99a1e024a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Penawaran Produk02 Nov, 06:25indra produkRp 10.000,00Ditawar Rp 9.000,00Penawaran Produk Diterima02 Nov, 07:02indra produkRp 10.000,00Ditawar Rp 9.000,00Penawaran Produk Berhasil Disepakati02 Nov, 07:04indra produkRp 10.000,00Ditawar Rp 9.000,00Penawaran Produk18 Nov, 08:58Indra Produk 2Rp 10.000,00Ditawar Rp 15.000,00Penawaran Produk Diterima18 Nov, 08:58Indra Produk 2Rp 10.000,00Ditawar Rp 15.000,00Penawaran Produk Ditolak18 Nov, 08:59Indra Produk 2Rp 10.000,00Ditawar Rp 15.000,00Penawaran Produk11 Nov, 10:46Indra Produk 2Rp 10.000,00Ditawar Rp 5.000,00Penawaran Produk Diterima18 Nov, 08:58Indra Produk 2Rp 10.000,00Ditawar Rp 5.000,00Penawaran Produk Ditolak18 Nov, 08:58Indra Produk 2Rp 10.000,00Ditawar Rp 5.000,00Penawaran Produk10 Nov, 09:00Indra Produk 2Rp 10.000,00Ditawar Rp 8.000,00Penawaran Produk Diterima10 Nov, 09:21Indra Produk 2Rp 10.000,00Ditawar Rp 8.000,00Penawaran Produk18 Nov, 07:12Indra Produk 4Rp 1.000,00Ditawar Rp 2.000,00Penawaran Produk Diterima18 Nov, 07:19Indra Produk 4Rp 1.000,00Ditawar Rp 2.000,00Penawaran Produk Berhasil Disepakati18 Nov, 08:18Indra Produk 4Rp 1.000,00Ditawar Rp 2.000,00Penawaran Produk18 Nov, 08:12Indra Produk 3Rp 50.000,00Ditawar Rp 30.000,00Penawaran Produk Ditolak18 Nov, 08:13Indra Produk 3Rp 50.000,00Ditawar Rp 30.000,00Penawaran Produk18 Nov, 06:34Indra Produk 3Rp 50.000,00Ditawar Rp 10.000,00Penawaran Produk Ditolak18 Nov, 06:34Indra Produk 3Rp 50.000,00Ditawar Rp 10.000,00Penawaran Produk18 Nov, 06:34Indra Produk 3Rp 50.000,00Ditawar Rp 10.000,00</value>
+      <webElementGuid>7588ac8f-3f28-4ff7-b6b1-6603233a69f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarText&quot;)/ul[@class=&quot;navbar-nav me-auto mb-2 mb-lg-0&quot;]/li[@class=&quot;dropdown show&quot;]/div[@class=&quot;dropdown-menu dropdown-menu-right p-2 show&quot;]</value>
+      <webElementGuid>10c197b1-04b5-4c8c-890c-c3c696e1e121</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarText']/ul/li[2]/div</value>
+      <webElementGuid>8b49f1c4-9a68-4d44-a4b2-c493d576cef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div</value>
+      <webElementGuid>c9f25d75-1a2a-429e-84a7-e05067303173</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Penawaran Produk02 Nov, 06:25indra produkRp 10.000,00Ditawar Rp 9.000,00Penawaran Produk Diterima02 Nov, 07:02indra produkRp 10.000,00Ditawar Rp 9.000,00Penawaran Produk Berhasil Disepakati02 Nov, 07:04indra produkRp 10.000,00Ditawar Rp 9.000,00Penawaran Produk18 Nov, 08:58Indra Produk 2Rp 10.000,00Ditawar Rp 15.000,00Penawaran Produk Diterima18 Nov, 08:58Indra Produk 2Rp 10.000,00Ditawar Rp 15.000,00Penawaran Produk Ditolak18 Nov, 08:59Indra Produk 2Rp 10.000,00Ditawar Rp 15.000,00Penawaran Produk11 Nov, 10:46Indra Produk 2Rp 10.000,00Ditawar Rp 5.000,00Penawaran Produk Diterima18 Nov, 08:58Indra Produk 2Rp 10.000,00Ditawar Rp 5.000,00Penawaran Produk Ditolak18 Nov, 08:58Indra Produk 2Rp 10.000,00Ditawar Rp 5.000,00Penawaran Produk10 Nov, 09:00Indra Produk 2Rp 10.000,00Ditawar Rp 8.000,00Penawaran Produk Diterima10 Nov, 09:21Indra Produk 2Rp 10.000,00Ditawar Rp 8.000,00Penawaran Produk18 Nov, 07:12Indra Produk 4Rp 1.000,00Ditawar Rp 2.000,00Penawaran Produk Diterima18 Nov, 07:19Indra Produk 4Rp 1.000,00Ditawar Rp 2.000,00Penawaran Produk Berhasil Disepakati18 Nov, 08:18Indra Produk 4Rp 1.000,00Ditawar Rp 2.000,00Penawaran Produk18 Nov, 08:12Indra Produk 3Rp 50.000,00Ditawar Rp 30.000,00Penawaran Produk Ditolak18 Nov, 08:13Indra Produk 3Rp 50.000,00Ditawar Rp 30.000,00Penawaran Produk18 Nov, 06:34Indra Produk 3Rp 50.000,00Ditawar Rp 10.000,00Penawaran Produk Ditolak18 Nov, 06:34Indra Produk 3Rp 50.000,00Ditawar Rp 10.000,00Penawaran Produk18 Nov, 06:34Indra Produk 3Rp 50.000,00Ditawar Rp 10.000,00' or . = 'Penawaran Produk02 Nov, 06:25indra produkRp 10.000,00Ditawar Rp 9.000,00Penawaran Produk Diterima02 Nov, 07:02indra produkRp 10.000,00Ditawar Rp 9.000,00Penawaran Produk Berhasil Disepakati02 Nov, 07:04indra produkRp 10.000,00Ditawar Rp 9.000,00Penawaran Produk18 Nov, 08:58Indra Produk 2Rp 10.000,00Ditawar Rp 15.000,00Penawaran Produk Diterima18 Nov, 08:58Indra Produk 2Rp 10.000,00Ditawar Rp 15.000,00Penawaran Produk Ditolak18 Nov, 08:59Indra Produk 2Rp 10.000,00Ditawar Rp 15.000,00Penawaran Produk11 Nov, 10:46Indra Produk 2Rp 10.000,00Ditawar Rp 5.000,00Penawaran Produk Diterima18 Nov, 08:58Indra Produk 2Rp 10.000,00Ditawar Rp 5.000,00Penawaran Produk Ditolak18 Nov, 08:58Indra Produk 2Rp 10.000,00Ditawar Rp 5.000,00Penawaran Produk10 Nov, 09:00Indra Produk 2Rp 10.000,00Ditawar Rp 8.000,00Penawaran Produk Diterima10 Nov, 09:21Indra Produk 2Rp 10.000,00Ditawar Rp 8.000,00Penawaran Produk18 Nov, 07:12Indra Produk 4Rp 1.000,00Ditawar Rp 2.000,00Penawaran Produk Diterima18 Nov, 07:19Indra Produk 4Rp 1.000,00Ditawar Rp 2.000,00Penawaran Produk Berhasil Disepakati18 Nov, 08:18Indra Produk 4Rp 1.000,00Ditawar Rp 2.000,00Penawaran Produk18 Nov, 08:12Indra Produk 3Rp 50.000,00Ditawar Rp 30.000,00Penawaran Produk Ditolak18 Nov, 08:13Indra Produk 3Rp 50.000,00Ditawar Rp 30.000,00Penawaran Produk18 Nov, 06:34Indra Produk 3Rp 50.000,00Ditawar Rp 10.000,00Penawaran Produk Ditolak18 Nov, 06:34Indra Produk 3Rp 50.000,00Ditawar Rp 10.000,00Penawaran Produk18 Nov, 06:34Indra Produk 3Rp 50.000,00Ditawar Rp 10.000,00')]</value>
+      <webElementGuid>1bddc083-853b-4462-bba4-5f05369f5b53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
